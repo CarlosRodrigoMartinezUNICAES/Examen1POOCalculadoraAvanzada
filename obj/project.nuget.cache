@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "6LQwuWBYzRz38+56sYiDPczuHnvxmLCzY5ya5lN3YKala7YEs4HS2jBU5hZYESwKitmJjD5KbmNULNUHB1slGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Carlos\\source\\repos\\CalculadoraAvanzada\\CalculadoraAvanzada.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos\\.nuget\\packages\\atksharp\\3.24.24.95\\atksharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\Carlos\\.nuget\\packages\\cairosharp\\3.24.24.95\\cairosharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\Carlos\\.nuget\\packages\\gdksharp\\3.24.24.95\\gdksharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\Carlos\\.nuget\\packages\\giosharp\\3.24.24.95\\giosharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\Carlos\\.nuget\\packages\\glibsharp\\3.24.24.95\\glibsharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\Carlos\\.nuget\\packages\\gtksharp\\3.24.24.95\\gtksharp.3.24.24.95.nupkg.sha512",
+    "C:\\Users\\Carlos\\.nuget\\packages\\pangosharp\\3.24.24.95\\pangosharp.3.24.24.95.nupkg.sha512"
+  ],
+  "logs": []
+}
